@@ -1,4 +1,4 @@
-# 🛒 ASAH (Analisis Segmentasi & Arahan Harian)
+# 🛒 Customer Segmentation for Personalized Retail Marketing (A25-CS256)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://dashboard-asah.streamlit.app/)
