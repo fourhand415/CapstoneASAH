@@ -10,6 +10,8 @@ Berikut adalah seluruh sumber daya yang digunakan dalam proyek ini:
 
 - **🌐 Live Dashboard:** [https://dashboard-asah.streamlit.app/](https://dashboard-asah.streamlit.app/)
   *(Aplikasi web untuk melihat hasil analisis secara interaktif)*
+- **🧠 GitHub Dashboard:** [Repo Dashboard](https://github.com/fourhand415/ASAH)
+  *(Link GitHub Dashboard)*
 - **📂 Sumber Daya Pendukung (G-Drive):** [Aset & File Tambahan](https://drive.google.com/drive/folders/1GhXmFzP0nDhblYxRAIvsIk5rKELX6jLc?hl=id)
   *(Berisi file presentasi, aset gambar, dan dokumen lengkap proyek)*
 - **💾 Sumber Dataset:** [Online Retail II UCI (Kaggle)](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
